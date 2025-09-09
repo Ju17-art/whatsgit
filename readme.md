@@ -4,6 +4,8 @@
 
 ![git-logo.svg](./assets/git-logo.svg.png)
 
+GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.00](https://creativecommons.org/licenses/by/3.0/)
+
 ---
 
 ### Содержание:
@@ -13,4 +15,3 @@
 
 ---
 
-GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.00](https://creativecommons.org/licenses/by/3.0/)

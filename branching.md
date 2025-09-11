@@ -1,4 +1,4 @@
-# 8. Ветвление (branch, checkout, switch, merge)
+# 8. Ветвление и слияние (branch, checkout, switch, merge)
 
 ## Что такое ветвление
 

@@ -48,15 +48,15 @@ git push --all origin - отправить все локальные ветки 
 
 ```git add .```
 
-```git commit -m "Initial commit"```
+```git commit -m "Init"```
 
 *# 2. Добавить удаленный репозиторий*
 
-```git remote add origin https://github.com/username/repo```
+```git remote add origin https://github.com/username/repo.git```
 
 *# 3. Отправить изменения*
 
-```git push -u origin main```
+```git push -u origin master```
 
 Важно!
 
@@ -68,4 +68,3 @@ git push --all origin - отправить все локальные ветки 
 | Следующий шаг |                                                                           
 |:--------------|                                                                           
 | Переходите к следующему разделу, чтобы узнать, как отменять изменения, если что-то пошло не так: [Отмена изменений (status, add, commit) >>](undo-changes.md) |
-

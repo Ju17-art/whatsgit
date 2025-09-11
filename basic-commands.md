@@ -34,9 +34,7 @@ git add filename.md
 git add *.md
 ```
 
-После ```git add``` снова проверьте статус:
-
-```git status```
+После ```git add``` снова проверьте статус: ```git status```
 
 Вы увидите, что файлы переместились в раздел «Changes to be committed» — это значит, они готовы к коммиту.
 

@@ -68,6 +68,5 @@ git clone https://github.com/username/repository-name othername
 Эта команда аналогична предыдущей, но каталог будет назван othername.
 
 ---
-| Следующий шаг |                                                                           
-|:--------------|                                                                           
-| Переходите к следующему разделу, чтобы освоить этот фундаментальный цикл: [Базовые команды: status, add, commit >>](basic-commands.md) |
+
+[**<< Первоначальная настройка GIT**](configuration.md) | [**Базовые команды (status, add, commit >>**)](basic-commands.md)

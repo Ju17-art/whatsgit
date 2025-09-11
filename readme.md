@@ -9,6 +9,7 @@ GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0
 ---
 
 ### Содержание:
+
 1. [**Что такое GIT**](1whatsgit.md)
 
 2. [**Установка GIT**](installation.md)
